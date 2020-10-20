@@ -1,4 +1,4 @@
-# { name } resume
+# Takuya Miura's resume
 
 ## Sample
 
